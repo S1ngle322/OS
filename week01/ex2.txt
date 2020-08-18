@@ -1,0 +1,22 @@
+./ex4
+gcc ex4.c -o ex4
+micro ex4.c
+rm ex4.c
+ls -a
+gcc main.c -o ex4
+chmod +x ex4.c
+gcc ex4.c -o ex4.c
+gcc main.c -o ex4.c
+mv main.c ex4.c
+micro main.c
+gedit ~/week1/main.c
+./ex3.sh
+micro ex3.sh
+micro week1/ex3.sh
+ls
+chmod +x ex3.sh
+cd week1/
+date
+sleep 3
+man date
+cd /Users/daniil.sinelnik
